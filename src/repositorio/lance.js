@@ -17,3 +17,4 @@ export async function adicionaLance(lance) {
     return false;
   }
 }
+
